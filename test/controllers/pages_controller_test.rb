@@ -1,3 +1,4 @@
+=begin
 require "test_helper"
 
 class PagesControllerTest < ActionDispatch::IntegrationTest
@@ -5,3 +6,4 @@ class PagesControllerTest < ActionDispatch::IntegrationTest
   #   assert true
   # end
 end
+=end
